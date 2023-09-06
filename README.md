@@ -16,10 +16,17 @@ By doing this project I learned about:
 2. Exploratory Data Analysis
 
 -> Ratio of likes-dislikes in different categories?
+
 -> Users like videos from which category more?
+
 -> Top 5 videos that are on trending in each country?
+
 -> Is the most liked video also the most trending video?
+
 -> Maximum number of days to trending status for a video?
+
 -> Users like videos from which category more?
+
 -> Users comment on which category the most?
+
 -> Frequently occurring words in tags and description
